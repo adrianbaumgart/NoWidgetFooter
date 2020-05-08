@@ -1,0 +1,10 @@
+Package: eu.fliney.nowidgetfooter
+Name: NoWidgetFooter
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Removes text at bottom of Widgets
+Maintainer: Adrian Baumgart <developer@adrianbaumgart.de>
+Author: Adrian Baumgart <developer@adrianbaumgart.de>
+Section: Tweaks
+Depiction: https://repo.fliney.eu/depictions/?p=eu.fliney.nowidgetfooter
